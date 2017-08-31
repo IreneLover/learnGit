@@ -8,4 +8,5 @@ Git tracks changes again.
 Creating a new branch is quick in dev.
 Creating a new branch is quick AND simple.
 use Fast forward...
+fixed bug issue 1
 
