@@ -10,5 +10,5 @@ Creating a new branch is quick AND simple.
 use Fast forward...
 fixed bug issue 1
 test tag v1.0.0
-
+test tag v1.0.1
 
